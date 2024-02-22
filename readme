@@ -1,0 +1,24 @@
+Opis projektu:
+Celem tego projektu jest stworzenie aplikacji w języku Python, która będzie generować losowe hasła z wykorzystaniem modułu random oraz listy znaków. Aplikacja ma umożliwiać użytkownikowi generowanie haseł o różnej długości i z różnymi zestawami znaków, takimi jak małe litery, duże litery, cyfry i znaki specjalne.
+
+Analiza wymagań:
+Podstawy Python:
+Aplikacja zostanie napisana w języku Python, wykorzystując jego podstawowe składniki takie jak pętle, instrukcje warunkowe oraz funkcje.
+
+Środowisko programistyczne dla Python:
+Do pisania kodu Pythona zostanie wykorzystane środowisko programistyczne, na przykład PyCharm lub Visual Studio Code.
+
+Podstawowe struktury danych Pythona:
+W projekcie wykorzystane będą podstawowe struktury danych Pythona, takie jak listy do przechowywania zestawów znaków do generowania haseł oraz do przechowywania opcji wyboru przez użytkownika.
+
+Klasy, metaklasy, wyszukiwanie atrybutów w obiektach i klasach:
+W implementacji aplikacji możemy wykorzystać klasy do organizacji różnych funkcjonalności, takich jak generowanie haseł i obsługa interakcji z użytkownikiem.
+
+Deskryptory, dekoratory:
+Deskryptory i dekoratory mogą być użyte do dodania dodatkowych funkcjonalności, na przykład do walidacji hasła.
+
+Projekt i implementacja:
+Aplikacja zostanie podzielona na moduły, aby zwiększyć czytelność kodu i ułatwić jego rozwój w przyszłości. Będzie zawierać funkcje do generowania haseł, interfejs użytkownika do komunikacji z użytkownikiem oraz moduł do obsługi opcji wyboru przez użytkownika. Kod będzie czytelny, dobrze zorganizowany i efektywny.
+
+Autorzy:
+Ten projekt został stworzony przez Mateusz i Spyra.
